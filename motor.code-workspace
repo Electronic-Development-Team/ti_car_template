@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../hardware_i2c_motor/motor"
+		},
+		{
+			"path": "../hardware_i2c_motor"
+		}
+	],
+	"settings": {}
+}
